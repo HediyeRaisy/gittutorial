@@ -19,7 +19,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [DavodBeheshti:heart::sunglasses::heart:](https://github.com/davodbeheshti)
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
-- [Hedieh Raeisi :blue heart:](https://github.com/HediyeRaisy)
+- [Hedieh Raeisi:blue_heart:](https://github.com/HediyeRaisy)
 - [Jadi](https://jadi.net)
 - [MrTerminal :trollface::+1:](https://github.com/Zeroday10)
 - [mohammadreza heydari dehmyani :pray::pray::pray:](https://github.com/mohammadreza2787)
